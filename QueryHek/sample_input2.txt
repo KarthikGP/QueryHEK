@@ -1,0 +1,6 @@
+Start Date : 2011-10-11
+Start Time : 00-00-00
+End Date : 2011-10-11
+End Time : 23-00-59
+Event Type : sg
+Spatial Region : helioprojective, -5000,5000,-5000,5000
